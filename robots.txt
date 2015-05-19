@@ -55,6 +55,8 @@ Disallow: /RELEASE_NOTES.txt
 Disallow: /*?p=*&
 Disallow: /*?SID=
 
+Crawl-delay: 2
+
 User-agent: Googlebot-Image
 
 Disallow: /
