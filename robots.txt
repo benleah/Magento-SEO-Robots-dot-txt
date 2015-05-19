@@ -60,3 +60,9 @@ User-agent: Googlebot-Image
 Disallow: /
 Allow: /media/catalog/
 Allow: /media/wysiwyg/
+
+# Sitemap
+
+# Simply duplicate this directive for multiple sitemap entires - must use an absolute path
+
+# Sitemap: http://YOUR_DOMAIN.com/sitemap.xml
