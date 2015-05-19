@@ -21,11 +21,9 @@ Disallow: /404/
 # Disallow: /js/
 # Disallow: /skin/
 
-
 # Path Blocks
 
 Disallow: /catalog/product_compare/
-Disallow: /catalog/category/view/
 Disallow: /catalogsearch/
 Disallow: /checkout/
 Disallow: /customer/
