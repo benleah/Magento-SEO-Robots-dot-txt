@@ -1,6 +1,6 @@
 # Magento Robots.txt boilerplate
 
-A starter template for your Magento installation's Robots.txt file. Promotes a better SEO ready behaviour for Magento stores by helping to (conserve crawl budget)[http://searchengineland.com/how-i-think-crawl-budget-works-sort-of-59768] and reduce scope for search bots indexing (light or duplicate content)[https://moz.com/blog/fat-pandas-and-thin-content].
+A starter template for your Magento installation's Robots.txt file. Promotes a better SEO ready behaviour for Magento stores by helping to [conserve crawl budget](http://searchengineland.com/how-i-think-crawl-budget-works-sort-of-59768) and reduce scope for search bots indexing [light or duplicate content](https://moz.com/blog/fat-pandas-and-thin-content).
 
 ### Installation
 
