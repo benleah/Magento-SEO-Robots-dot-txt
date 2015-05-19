@@ -1,0 +1,62 @@
+User-agent: *
+
+# Directory Blocks
+
+Disallow: /app/
+Disallow: /cgi-bin/
+Disallow: /downloader/
+Disallow: /errors/
+Disallow: /includes/
+Disallow: /magento/
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /scripts/
+Disallow: /shell/
+Disallow: /var/
+Disallow: /404/
+
+# The following directories should be allowed in almost all cases to enable search engines to correctly render your pages
+
+# Disallow: /lib/
+# Disallow: /js/
+# Disallow: /skin/
+
+
+# Path Blocks
+
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalogsearch/
+Disallow: /checkout/
+Disallow: /customer/
+Disallow: /enable-cookies/
+Disallow: /poll/
+Disallow: /privacy-enable-cookie-restriction-mode/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /wishlist/
+
+# File Blocks
+
+Disallow: /api.php
+Disallow: /index.php
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /get.php
+Disallow: /install.php
+Disallow: /LICENSE.html
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /STATUS.txt
+Disallow: /RELEASE_NOTES.txt
+
+# Parameters
+
+Disallow: /*?p=*&
+Disallow: /*?SID=
+
+User-agent: Googlebot-Image
+
+Disallow: /
+Allow: /media/catalog/
+Allow: /media/wysiwyg/
